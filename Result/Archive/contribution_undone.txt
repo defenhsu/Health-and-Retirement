@@ -1,0 +1,14 @@
+This paper contributes to a large literature on retirement timing and highlights heterogeneous effects by financial literacy, wealth and health condition. 
+Seibold (2021), for example, use the bunching method to investigate retirement responses to over 600 benefit discontinuities based on administrative data from the German public pension system. 
+Their finding implies statutory retirement schedules have direct effect on retirement decisions, which are bigger than financial incentives themselves. 
+And they argue reference dependence might be the mechanism driving this empirical patterns. 
+
+It also contributes to literature on the effect of retirement on health.  
+In particular, Zamarro (2011) study the health impacts of retirement in 11 countries using the Survey of Health, Ageingand Retirement in Europe(SHARE) datasets. 
+They exploit statutory retirement ages as instruments for retiring and examine self-reported health information and other objective health diagnoses.
+The estimates provide significant evidence that retirement has positive effects on health and cognitive function. 
+
+
+
+
+
